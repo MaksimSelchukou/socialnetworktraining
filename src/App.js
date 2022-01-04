@@ -22,8 +22,6 @@ const App = () => {
                     {/*<Route path='/music' element={<Music/>}/>*/}
                     {/*<Route path='/settings' element={<Settings/>}/>*/}
                     </Routes>
-                    {/*<Dialogs/>*/}
-                    {/*<Profile/>*/}
                 </div>
             </div>
         </BrowserRouter>
